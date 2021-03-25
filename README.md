@@ -37,3 +37,7 @@ Learn OpenGL学习笔记及代码实现
 **第三部分HDR.cpp**
 
 ![图片名称](https://github.com/shaoming-CN/Learn-OpenGL/blob/main/Pictures/HDR.png)
+
+**第四部分deferred.cpp**
+
+![图片名称](https://github.com/shaoming-CN/Learn-OpenGL/blob/main/Pictures/%E5%BB%B6%E8%BF%9F%E7%9D%80%E8%89%B2.png)
