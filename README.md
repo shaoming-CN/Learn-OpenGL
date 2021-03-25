@@ -7,4 +7,4 @@ Learn OpenGL学习笔记及代码实现
 # 效果展示和说明
 第一部分main.cpp
 
-![图片名称](https://www.baidu.com/img/bd_logo1.png) 
+![图片名称](https://github.com/shaoming-CN/Learn-OpenGL/blob/main/Pictures/1616638222(1).jpg) 
