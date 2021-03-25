@@ -6,3 +6,5 @@ Learn OpenGL学习笔记及代码实现
 
 # 效果展示和说明
 第一部分main.cpp
+
+![图片名称](https://www.baidu.com/img/bd_logo1.png) 
