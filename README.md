@@ -8,6 +8,7 @@ Learn OpenGL学习笔记及代码实现
 **第一部分main.cpp**
 
 ![图片名称](https://github.com/shaoming-CN/Learn-OpenGL/blob/main/Pictures/1616638222(1).jpg) 
+
 知识点包括：
 
   * 如何建立窗口
@@ -30,7 +31,9 @@ Learn OpenGL学习笔记及代码实现
   * 抗锯齿的使用
 
 **第二部分shadowmain.cpp**
+
 ![图片名称](https://github.com/shaoming-CN/Learn-OpenGL/blob/main/Pictures/%E9%98%B4%E5%BD%B1.png)
 
 **第三部分HDR.cpp**
+
 ![图片名称](https://github.com/shaoming-CN/Learn-OpenGL/blob/main/Pictures/HDR.png)
